@@ -1,21 +1,21 @@
 [
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7152,
-    "open_issues_count": 95,
-    "forks_count": 547
+    "stargazers_count": 7156,
+    "open_issues_count": 93,
+    "forks_count": 548
   },
   {
     "full_name": "samuelkraft/routes",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "samuelkraft/notion-blog-nextjs",
-    "stargazers_count": 368,
+    "stargazers_count": 369,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "jquense/sass-tailwind-functions",
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1558,
+    "stargazers_count": 1561,
     "open_issues_count": 0,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "samuelkraft/samuelkraft-next",
-    "stargazers_count": 50,
+    "stargazers_count": 56,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "lemonadejs/lemonadejs",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 641,
+    "stargazers_count": 642,
     "open_issues_count": 24,
     "forks_count": 62
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "theodorusclarence/vite-react-tailwind-starter",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 4978,
+    "stargazers_count": 5051,
     "open_issues_count": 25,
-    "forks_count": 173
+    "forks_count": 179
   },
   {
     "full_name": "CSFrequency/react-firebase-hooks",
-    "stargazers_count": 2023,
+    "stargazers_count": 2028,
     "open_issues_count": 29,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "iwgx/downtown",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "aemkei/jsfuck",
-    "stargazers_count": 6085,
+    "stargazers_count": 6091,
     "open_issues_count": 28,
-    "forks_count": 593
+    "forks_count": 595
   },
   {
     "full_name": "xAranaktu/PES-2021-Cheat-Table",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 6804,
-    "open_issues_count": 261,
-    "forks_count": 564
+    "stargazers_count": 6838,
+    "open_issues_count": 263,
+    "forks_count": 569
   },
   {
     "full_name": "IBM/newrelic-cli",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "svg/svgo",
-    "stargazers_count": 16636,
-    "open_issues_count": 208,
-    "forks_count": 1213
+    "stargazers_count": 16664,
+    "open_issues_count": 197,
+    "forks_count": 1212
   },
   {
     "full_name": "ezralazuardy/bookstore",
@@ -165,18 +165,18 @@
     "full_name": "vercel-solutions/nextjs-portfolio-starter",
     "stargazers_count": 161,
     "open_issues_count": 2,
-    "forks_count": 36
+    "forks_count": 38
   },
   {
     "full_name": "fastify/fastify-nextjs",
-    "stargazers_count": 335,
-    "open_issues_count": 1,
+    "stargazers_count": 336,
+    "open_issues_count": 2,
     "forks_count": 40
   },
   {
     "full_name": "antfu/vite-plugin-inspect",
-    "stargazers_count": 66,
+    "stargazers_count": 207,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 3
   }
 ]
