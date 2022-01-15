@@ -3,7 +3,7 @@
     "full_name": "kelektiv/node-cron",
     "stargazers_count": 7266,
     "open_issues_count": 101,
-    "forks_count": 566
+    "forks_count": 567
   },
   {
     "full_name": "samuelkraft/routes",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "samuelkraft/notion-blog-nextjs",
-    "stargazers_count": 463,
+    "stargazers_count": 466,
     "open_issues_count": 1,
-    "forks_count": 59
+    "forks_count": 62
   },
   {
     "full_name": "jquense/sass-tailwind-functions",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1681,
+    "stargazers_count": 1685,
     "open_issues_count": 0,
-    "forks_count": 404
+    "forks_count": 403
   },
   {
     "full_name": "samuelkraft/samuelkraft-next",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 1,
     "forks_count": 17
   },
@@ -56,8 +56,8 @@
   {
     "full_name": "dayhaysoos/use-shopping-cart",
     "stargazers_count": 683,
-    "open_issues_count": 34,
-    "forks_count": 71
+    "open_issues_count": 37,
+    "forks_count": 73
   },
   {
     "full_name": "NicolaDeastra/The-Lazy-Media-api",
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 7093,
-    "open_issues_count": 26,
-    "forks_count": 274
+    "stargazers_count": 7150,
+    "open_issues_count": 27,
+    "forks_count": 277
   },
   {
     "full_name": "CSFrequency/react-firebase-hooks",
-    "stargazers_count": 2275,
-    "open_issues_count": 10,
+    "stargazers_count": 2282,
+    "open_issues_count": 8,
     "forks_count": 146
   },
   {
     "full_name": "iwgx/downtown",
     "stargazers_count": 10,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "aemkei/jsfuck",
-    "stargazers_count": 6401,
-    "open_issues_count": 29,
-    "forks_count": 611
+    "stargazers_count": 6406,
+    "open_issues_count": 30,
+    "forks_count": 612
   },
   {
     "full_name": "xAranaktu/PES-2021-Cheat-Table",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 8219,
-    "open_issues_count": 342,
-    "forks_count": 733
+    "stargazers_count": 8234,
+    "open_issues_count": 341,
+    "forks_count": 732
   },
   {
     "full_name": "IBM/newrelic-cli",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "JoschuaSchneider/use-error-boundary",
-    "stargazers_count": 152,
+    "stargazers_count": 159,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "svg/svgo",
-    "stargazers_count": 17150,
+    "stargazers_count": 17157,
     "open_issues_count": 203,
-    "forks_count": 1243
+    "forks_count": 1244
   },
   {
     "full_name": "ezralazuardy/bookstore",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "antfu/vite-plugin-inspect",
-    "stargazers_count": 317,
+    "stargazers_count": 318,
     "open_issues_count": 2,
     "forks_count": 10
   }
