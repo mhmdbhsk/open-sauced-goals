@@ -1,9 +1,9 @@
 [
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7427,
+    "stargazers_count": 7431,
     "open_issues_count": 118,
-    "forks_count": 588
+    "forks_count": 589
   },
   {
     "full_name": "samuelkraft/routes",
@@ -15,7 +15,7 @@
     "full_name": "samuelkraft/notion-blog-nextjs",
     "stargazers_count": 590,
     "open_issues_count": 5,
-    "forks_count": 111
+    "forks_count": 113
   },
   {
     "full_name": "jquense/sass-tailwind-functions",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1814,
+    "stargazers_count": 1817,
     "open_issues_count": 0,
-    "forks_count": 430
+    "forks_count": 431
   },
   {
     "full_name": "samuelkraft/samuelkraft-next",
@@ -56,37 +56,37 @@
   {
     "full_name": "dayhaysoos/use-shopping-cart",
     "stargazers_count": 723,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 77
   },
   {
     "full_name": "NicolaDeastra/The-Lazy-Media-api",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "theodorusclarence/vite-react-tailwind-starter",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 11077,
-    "open_issues_count": 29,
-    "forks_count": 458
+    "stargazers_count": 11139,
+    "open_issues_count": 31,
+    "forks_count": 457
   },
   {
     "full_name": "CSFrequency/react-firebase-hooks",
-    "stargazers_count": 2648,
-    "open_issues_count": 31,
-    "forks_count": 219
+    "stargazers_count": 2652,
+    "open_issues_count": 32,
+    "forks_count": 217
   },
   {
     "full_name": "iwgx/downtown",
     "stargazers_count": 13,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 0
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 10167,
+    "stargazers_count": 10197,
     "open_issues_count": 349,
-    "forks_count": 902
+    "forks_count": 905
   },
   {
     "full_name": "IBM/newrelic-cli",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "JoschuaSchneider/use-error-boundary",
-    "stargazers_count": 176,
+    "stargazers_count": 178,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "svg/svgo",
-    "stargazers_count": 17754,
+    "stargazers_count": 17766,
     "open_issues_count": 224,
     "forks_count": 1269
   },
@@ -158,18 +158,18 @@
   {
     "full_name": "ezralazuardy/pathfinder",
     "stargazers_count": 5,
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "forks_count": 3
   },
   {
     "full_name": "vercel-solutions/nextjs-portfolio-starter",
-    "stargazers_count": 329,
+    "stargazers_count": 332,
     "open_issues_count": 7,
     "forks_count": 106
   },
   {
     "full_name": "fastify/fastify-nextjs",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 2,
     "forks_count": 56
   },
