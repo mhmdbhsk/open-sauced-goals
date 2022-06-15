@@ -1,7 +1,7 @@
 [
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7437,
+    "stargazers_count": 7438,
     "open_issues_count": 119,
     "forks_count": 589
   },
@@ -9,12 +9,12 @@
     "full_name": "samuelkraft/routes",
     "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "samuelkraft/notion-blog-nextjs",
-    "stargazers_count": 595,
-    "open_issues_count": 5,
+    "stargazers_count": 599,
+    "open_issues_count": 4,
     "forks_count": 114
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1821,
+    "stargazers_count": 1823,
     "open_issues_count": 0,
-    "forks_count": 432
+    "forks_count": 431
   },
   {
     "full_name": "samuelkraft/samuelkraft-next",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "lemonadejs/lemonadejs",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -45,19 +45,19 @@
     "full_name": "open-sauced/docs.opensauced.pizza",
     "stargazers_count": 12,
     "open_issues_count": 5,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "open-sauced/goals-template",
     "stargazers_count": 17,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 724,
+    "stargazers_count": 726,
     "open_issues_count": 26,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "NicolaDeastra/The-Lazy-Media-api",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 11352,
-    "open_issues_count": 37,
-    "forks_count": 463
+    "stargazers_count": 11583,
+    "open_issues_count": 43,
+    "forks_count": 476
   },
   {
     "full_name": "CSFrequency/react-firebase-hooks",
-    "stargazers_count": 2660,
-    "open_issues_count": 32,
-    "forks_count": 215
+    "stargazers_count": 2666,
+    "open_issues_count": 33,
+    "forks_count": 216
   },
   {
     "full_name": "iwgx/downtown",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "aemkei/jsfuck",
-    "stargazers_count": 6660,
-    "open_issues_count": 31,
+    "stargazers_count": 6668,
+    "open_issues_count": 32,
     "forks_count": 629
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 10299,
-    "open_issues_count": 345,
-    "forks_count": 911
+    "stargazers_count": 10340,
+    "open_issues_count": 348,
+    "forks_count": 918
   },
   {
     "full_name": "IBM/newrelic-cli",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "teknologi-umum/blog",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "JoschuaSchneider/use-error-boundary",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "svg/svgo",
-    "stargazers_count": 17794,
+    "stargazers_count": 17811,
     "open_issues_count": 224,
-    "forks_count": 1270
+    "forks_count": 1271
   },
   {
     "full_name": "ezralazuardy/bookstore",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "vercel-solutions/nextjs-portfolio-starter",
-    "stargazers_count": 335,
+    "stargazers_count": 336,
     "open_issues_count": 7,
-    "forks_count": 109
+    "forks_count": 111
   },
   {
     "full_name": "fastify/fastify-nextjs",
     "stargazers_count": 408,
-    "open_issues_count": 1,
+    "open_issues_count": 5,
     "forks_count": 57
   },
   {
     "full_name": "antfu/vite-plugin-inspect",
-    "stargazers_count": 473,
+    "stargazers_count": 475,
     "open_issues_count": 2,
     "forks_count": 20
   }
