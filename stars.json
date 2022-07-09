@@ -1,9 +1,9 @@
 [
   {
     "full_name": "kelektiv/node-cron",
-    "stargazers_count": 7459,
+    "stargazers_count": 7464,
     "open_issues_count": 120,
-    "forks_count": 590
+    "forks_count": 591
   },
   {
     "full_name": "samuelkraft/routes",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "samuelkraft/notion-blog-nextjs",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 4,
     "forks_count": 117
   },
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "sagemath/sage",
-    "stargazers_count": 1848,
+    "stargazers_count": 1851,
     "open_issues_count": 0,
     "forks_count": 430
   },
   {
     "full_name": "samuelkraft/samuelkraft-next",
-    "stargazers_count": 186,
+    "stargazers_count": 188,
     "open_issues_count": 0,
     "forks_count": 31
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "open-sauced/goals-template",
-    "stargazers_count": 17,
+    "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "NicolaDeastra/The-Lazy-Media-api",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 12538,
-    "open_issues_count": 57,
-    "forks_count": 505
+    "stargazers_count": 12635,
+    "open_issues_count": 61,
+    "forks_count": 508
   },
   {
     "full_name": "CSFrequency/react-firebase-hooks",
-    "stargazers_count": 2715,
+    "stargazers_count": 2721,
     "open_issues_count": 40,
-    "forks_count": 222
+    "forks_count": 223
   },
   {
     "full_name": "iwgx/downtown",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 10515,
-    "open_issues_count": 270,
-    "forks_count": 920
+    "stargazers_count": 10556,
+    "open_issues_count": 269,
+    "forks_count": 921
   },
   {
     "full_name": "IBM/newrelic-cli",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "svg/svgo",
-    "stargazers_count": 17882,
-    "open_issues_count": 231,
-    "forks_count": 1279
+    "stargazers_count": 17903,
+    "open_issues_count": 233,
+    "forks_count": 1280
   },
   {
     "full_name": "ezralazuardy/bookstore",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "vercel-solutions/nextjs-portfolio-starter",
-    "stargazers_count": 347,
+    "stargazers_count": 349,
     "open_issues_count": 7,
     "forks_count": 115
   },
   {
     "full_name": "fastify/fastify-nextjs",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 8,
     "forks_count": 57
   },
   {
     "full_name": "antfu/vite-plugin-inspect",
-    "stargazers_count": 500,
+    "stargazers_count": 502,
     "open_issues_count": 2,
     "forks_count": 20
   }
